@@ -43,20 +43,20 @@
     --header-secondary: #b9bbbe;
 
   /*  Text Color  */
-    --text-normal: #f7f4f4;
-    --channels-default: #ddd5d3;
-    --interactive-normal: #EAE1DF;
-    --interactive-hover: #EAE1DF;
-    --interactive-active: #fff;
-    --interactive-muted: #505355;
+    --text-normal: #657b83;
+    --channels-default: #657b83;
+    --interactive-normal: #657b83;
+    --interactive-hover: #657b83;
+    --interactive-active: #657b83;
+    --interactive-muted: #fdf6e3;
 
   /* Background Color */
     --background-primary: #fdf6e3;
     --background-secondary: #eee8d5;
-    --background-secondary-alt: #14192b;
-    --background-tertiary: #14192b;
-    --background-accent: #4d6a91;
-    --background-floating: #171d30;
+    --background-secondary-alt: #fdf6e3;
+    --background-tertiary: #fdf6e3;
+    --background-accent: #fdf6e3;
+    --background-floating: #fdf6e3;
     --background-mentioned: rgba(0, 186, 254, 0.5);
     --background-mentioned-hover: rgba(42, 196, 252, 0.63);
 
